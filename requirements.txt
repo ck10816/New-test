@@ -162,6 +162,6 @@ virtualenv==20.24.5
 Werkzeug==2.1.2
 wrapt==1.14.1
 yarl==1.7.2
-zipp==3.8.0
+zipp==3.19.1
 zope.event==5.0
 zope.interface==6.2
