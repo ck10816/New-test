@@ -128,7 +128,7 @@ rsa==4.9
 s3transfer==0.6.0
 scramp==1.4.1
 sendgrid==6.9.7
-sentry-sdk==1.5.12
+sentry-sdk==2.8.0
 simplejson==3.17.6
 six==1.16.0
 slack-bolt==1.14.3
