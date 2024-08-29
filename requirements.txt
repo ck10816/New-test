@@ -32,7 +32,7 @@ dropbox==11.32.0
 filelock==3.12.4
 filprofiler==2022.7.1
 firebase-admin==6.3.0
-Flask-Cors==3.0.10
+Flask-Cors==4.0.1
 Flask-HTTPAuth==4.7.0
 Flask-Login==0.6.1
 flask-profiler==1.8.1
