@@ -29,7 +29,7 @@ distlib==0.3.7
 dnspython==2.2.1
 docutils==0.19
 dropbox==11.32.0
-filelock==3.12.4
+filelock==3.20.3
 filprofiler==2022.7.1
 firebase-admin==6.3.0
 Flask-Cors==3.0.10
@@ -99,7 +99,7 @@ psycopg2-binary==2.9.3
 py==1.11.0
 pyarrow==8.0.0
 pyasn1-modules==0.2.8
-pyasn1==0.4.8
+pyasn1==0.6.2
 pycparser==2.21
 pycryptodome==3.14.1
 pycryptodomex==3.14.1
@@ -157,9 +157,9 @@ typing==3.7.4.3
 tzdata==2022.1
 tzlocal==4.2
 uritemplate==4.1.1
-urllib3==1.26.9
+urllib3==2.6.3
 virtualenv==20.24.5
-Werkzeug==2.1.2
+Werkzeug==3.1.5
 wrapt==1.14.1
 yarl==1.7.2
 zipp==3.8.0
